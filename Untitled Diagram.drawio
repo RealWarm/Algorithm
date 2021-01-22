@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T01:28:54.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="s9snwGN56sfPrUBMqerW" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T10:02:45.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wvVUvTyezKfw85gZdsFS" version="14.2.4" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="492" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,7 +542,7 @@
         <mxCell id="xdUB6vGGjP-URpI1_We--26" value="PK" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--25" vertex="1" connectable="0">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdUB6vGGjP-URpI1_We--27" value="작성자 아이디&lt;br&gt;제목&lt;br&gt;상세내용&lt;br&gt;낱개금액&lt;br&gt;수량&lt;br&gt;등록날짜&lt;br&gt;대분류&lt;br&gt;중분류&lt;br&gt;소분류" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--24" vertex="1">
+        <mxCell id="xdUB6vGGjP-URpI1_We--27" value="작성자 아이디&lt;br&gt;제목&lt;br&gt;상세내용&lt;br&gt;낱개금액&lt;br&gt;수량&lt;br&gt;등록날짜&lt;br&gt;분류번호&lt;br&gt;거래형태&lt;br&gt;거래진행상황&lt;br&gt;" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--24" vertex="1">
           <mxGeometry y="56" width="180" height="154" as="geometry" />
         </mxCell>
         <mxCell id="xdUB6vGGjP-URpI1_We--28" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--27" vertex="1" connectable="0">
@@ -585,7 +585,7 @@
         <mxCell id="xdUB6vGGjP-URpI1_We--49" value="PK" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--48" vertex="1" connectable="0">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdUB6vGGjP-URpI1_We--50" value="작성자 아이디&lt;br&gt;제목&lt;br&gt;내용&lt;br&gt;등록날짜&lt;br&gt;카테고리번호" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--47" vertex="1">
+        <mxCell id="xdUB6vGGjP-URpI1_We--50" value="작성자 아이디&lt;br&gt;제목&lt;br&gt;내용&lt;br&gt;등록날짜" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--47" vertex="1">
           <mxGeometry y="56" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="xdUB6vGGjP-URpI1_We--51" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--50" vertex="1" connectable="0">
@@ -595,6 +595,31 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="310" y="1794.2999999999997" as="sourcePoint" />
             <mxPoint x="430" y="1794.288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-1" value="상품카테고리" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1700" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-2" value="분류번호" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" vertex="1" parent="BpT-XUcjWfOnhZnjUXWl-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-3" value="PK" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="BpT-XUcjWfOnhZnjUXWl-2">
+          <mxGeometry width="30" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-4" value="대분류&lt;br&gt;중분류&lt;br&gt;소분류" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" vertex="1" parent="BpT-XUcjWfOnhZnjUXWl-1">
+          <mxGeometry y="70" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-5" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="BpT-XUcjWfOnhZnjUXWl-4">
+          <mxGeometry width="30" height="90.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="BpT-XUcjWfOnhZnjUXWl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="1794.5" as="targetPoint" />
+            <mxPoint x="889.9999999999998" y="1794.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1794.5" />
+              <mxPoint x="920" y="1794.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
