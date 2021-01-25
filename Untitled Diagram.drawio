@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T16:51:08.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ZXiFUQkwU_E_TqE_JEbD" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T07:03:51.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="315EN5h58bNicIRWgQS-" version="14.2.7" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="1195" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,7 +487,7 @@
         <mxCell id="xdUB6vGGjP-URpI1_We--10" value="PK" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--9" vertex="1" connectable="0">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdUB6vGGjP-URpI1_We--11" value="비밀번호&lt;br&gt;닉네임&lt;br&gt;이름&lt;br&gt;이메일&lt;br&gt;핸드폰&lt;br&gt;소속기관 이름(FK)&lt;br&gt;최근 배송 주소" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--8" vertex="1">
+        <mxCell id="xdUB6vGGjP-URpI1_We--11" value="비밀번호&lt;br&gt;닉네임&lt;br&gt;이름&lt;br&gt;이메일&lt;br&gt;핸드폰&lt;br&gt;기관번호(FK)&lt;br&gt;최근 배송 주소" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--8" vertex="1">
           <mxGeometry y="56" width="160" height="134" as="geometry" />
         </mxCell>
         <mxCell id="xdUB6vGGjP-URpI1_We--12" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--11" vertex="1" connectable="0">
@@ -496,13 +496,13 @@
         <mxCell id="xdUB6vGGjP-URpI1_We--13" value="공공기관" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="150" y="1970" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="xdUB6vGGjP-URpI1_We--14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;소속기관 이름&lt;/span&gt;" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" parent="xdUB6vGGjP-URpI1_We--13" vertex="1">
+        <mxCell id="xdUB6vGGjP-URpI1_We--14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;기관번호&lt;/span&gt;" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" parent="xdUB6vGGjP-URpI1_We--13" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xdUB6vGGjP-URpI1_We--15" value="PK" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--14" vertex="1" connectable="0">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdUB6vGGjP-URpI1_We--16" value="분류&lt;br&gt;주소" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--13" vertex="1">
+        <mxCell id="xdUB6vGGjP-URpI1_We--16" value="기관명&lt;br&gt;분류&lt;br&gt;주소" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" parent="xdUB6vGGjP-URpI1_We--13" vertex="1">
           <mxGeometry y="56" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="xdUB6vGGjP-URpI1_We--17" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="xdUB6vGGjP-URpI1_We--16" vertex="1" connectable="0">
